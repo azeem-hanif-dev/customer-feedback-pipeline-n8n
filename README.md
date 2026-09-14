@@ -21,12 +21,3 @@ An n8n workflow that turns a customer feedback form into a zero-touch pipeline: 
 
 Manually sorting incoming feedback and deciding who gets a discount code doesn't scale past a handful of responses a week. This workflow removes the manual entry step entirely and gives you a single place (the sheet) to see every response land as it happens, with room to bolt on automated responses per sentiment.
 
----
-
-### 🤝 About the Author
-
-Built by **Sameer Faisal** — AI Developer | n8n Automation Specialist | Chatbot Builder
-
-Open to freelance automation projects. If your team is still manually sorting feedback and sending discount codes — this is exactly what automation is for.
-
-📩 [sameerf737@gmail.com](mailto:sameerf737@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sameer-faisal-/) | [GitHub](https://github.com/Sameer051022)
